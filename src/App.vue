@@ -1,15 +1,16 @@
 <template>
   <div id="app">
     <router-view/>
-    111
   </div>
 </template>
 
 <script>
+// import axios from 'axios'
 export default {
-  name: 'App'
+  name: 'APP'
 }
 </script>
 
 <style lang="scss">
+
 </style>
